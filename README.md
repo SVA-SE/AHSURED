@@ -1,6 +1,9 @@
 ## Welcome to
 
-![AHSURED](https://raw.githubusercontent.com/SVA-SE/AHSURED/master/img/AHSURED.png)  
+<p align="center">
+  <img width="460" height="100" src="https://raw.githubusercontent.com/SVA-SE/AHSURED/master/img/AHSURED.png">
+</p>
+
 
 ![AHSUREDtext](https://raw.githubusercontent.com/SVA-SE/AHSURED/master/img/AHSURED_text.png)
 ***
