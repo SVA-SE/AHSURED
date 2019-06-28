@@ -1,6 +1,8 @@
 ## Welcome to
 
-![AHSURED](https://github.com/SVA-SE/AHSURED/blob/master/img/AHSURED_title.png)
+![AHSURED](https://raw.githubusercontent.com/SVA-SE/AHSURED/master/img/AHSURED.png)  
+
+![AHSUREDtext](https://raw.githubusercontent.com/SVA-SE/AHSURED/master/img/AHSURED_text.png)
 ***
 
 To access the content of the reporting guidelines, please go to the **AHSURED WIKI**. This can be done by clicking the *Wiki* tab in menu bar at the top of this page or [here](https://github.com/SVA-SE/AHSURED/wiki)
